@@ -1,4 +1,1 @@
-
-let calculator = new CalcController();
-
-console.log(calculator);
+window.calculator = new CalcController();
